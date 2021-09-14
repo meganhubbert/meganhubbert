@@ -1,4 +1,20 @@
 ### Hi there 👋
+### I'm Megan Elizabeth 💻 🌻
+<hr>
+
+I'm a fullstack developer located in **Chicago, IL** 🌃
+
+**I've learned these ways to talk to computers**
+
+HTML5 CSS3 SASS JavaScript React Ruby on Rails
+
+**Let's Connect!**
+
+[Twitter](twitter.com/codewithmeg)
+
+[LinkedIn](linkedin.com/in/meganeday)
+
+[Medium](codewithmeg.medium.com)
 
 <!--
 **meganeday/meganeday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
