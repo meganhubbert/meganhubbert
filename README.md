@@ -5,7 +5,7 @@
 I'm a **Fullstack Software Engineer** from **Chicago, IL**
 
 - 💡 Pronouns: she/her/hers
-- 🔭 I’m currently working on **[BookLook](https://github.com/meganeday/js-book-library)**
+- 🔭 I’m currently working on **[All Booked](https://github.com/meganeday/js-book-library)**
 - 🌱 I’m currently learning **Python** &amp; **Figma**
 - 🙋 Ask me about: CSS, Wireframing, React.js, JavaScript
 
