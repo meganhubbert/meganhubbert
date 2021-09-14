@@ -6,6 +6,8 @@ I'm a fullstack developer located in **Chicago, IL** 🌃
 
 **I've learned these ways to talk to computers**
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+
 HTML5 CSS3 SASS JavaScript React Ruby on Rails
 
 **Let's Connect!**
