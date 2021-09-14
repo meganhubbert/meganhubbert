@@ -19,6 +19,7 @@ Beyond coding, I love:
 
 👩🏼‍💻 **Here's how I talk to computers:**
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=25px width=25px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=25px width=25px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=25px width=25px/>
@@ -32,6 +33,7 @@ Beyond coding, I love:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  height=25px width=25px>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height=25px width=25px>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height=25px width=25px/>
+</p>
 <hr>
 
 🦋 **Find me on the web:**
