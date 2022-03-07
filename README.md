@@ -5,8 +5,8 @@
 I'm a **Fullstack Software Engineer** from **Chicago, IL**
 
 - 💡   Pronouns: she/her/hers
-- 🌱   I’m currently learning **JavaScript Algorithms**
-- 🙋   Ask me about: CSS, Wireframing, React.js, JavaScript
+- 🌱   I’m currently working on my **Salesforce B2C Ecommerce for Developers Certification**
+- 🙋   Ask me about: CSS, Wireframing, React.js, JavaScript, Salesforce Ecommerce Development
 
 Beyond coding, I love:
 
@@ -23,6 +23,7 @@ Beyond coding, I love:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=25px width=25px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=25px width=25px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=25px width=25px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height=25px width=25px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=25px width=25px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height=25px width=25px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height=25px width=25px/>
