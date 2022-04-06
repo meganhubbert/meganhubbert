@@ -6,7 +6,7 @@ I'm a **Fullstack Software Engineer** from **Chicago, IL**
 
 - 💡   Pronouns: she/her/hers
 - 🌱   I’m currently working on my **Salesforce B2C Ecommerce for Developers Certification**
-- 🙋   Ask me about: CSS, Wireframing, React.js, JavaScript, Salesforce Ecommerce Development
+- 🙋   Ask me about: Sass, Wireframing, React.js, Salesforce Commerce Cloud Development
 
 Beyond coding, I love:
 
