@@ -1,18 +1,18 @@
 ### Hi There! 👋🏻
-### I'm Megan Elizabeth 💻 🌻
+### I'm Megan 💻 💫
 <hr>
 
 I'm a **Fullstack Software Engineer** from **Chicago, IL**
 
 - 💡   Pronouns: she/her/hers
 - 🌱   I’m currently working on my **Salesforce B2C Ecommerce for Developers Certification**
-- 🙋   Ask me about: Sass, Wireframing, React.js, Salesforce Commerce Cloud Development
+- 🙋   Ask me about: Sass, Figma, React.js, Salesforce Commerce Cloud Development
 
 Beyond coding, I love:
 
 -  🎲   Playing Board Games 
 -  🏡   Building Houses in The Sims 4 
--  📝   Creative Writing of All Sorts 
+-  📚   Reading -- my current goal is 75 books in 2023!
 -  🐱🐱   My 2 cats, Bea & Denna 
 <hr>
 
