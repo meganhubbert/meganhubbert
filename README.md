@@ -1,5 +1,5 @@
 ### Hi There! 👋🏻
-### I'm Megan 💻 💫
+### I'm Megan Day 💻 💫
 <hr>
 
 I'm a **Fullstack Software Engineer** from **Chicago, IL**
