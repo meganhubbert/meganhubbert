@@ -2,7 +2,7 @@
 ### I'm Megan Day 💻 💫
 <hr>
 
-I'm a **Fullstack Software Engineer** from **Chicago, IL**
+I'm a **Front-End Software Engineer** from **Chicago, IL**
 
 - 💡   Pronouns: she/her/hers
 - 🌱   I’m currently working on my **Salesforce B2C Ecommerce for Developers Certification**
