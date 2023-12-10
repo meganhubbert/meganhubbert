@@ -1,5 +1,5 @@
 ### Hi There! 👋🏻
-### I'm Megan Day 💻 💫
+### I'm Megan Hubbert 💻 💫
 <hr>
 
 I'm a **Front-End Software Engineer** from **Chicago, IL**
