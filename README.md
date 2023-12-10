@@ -5,8 +5,8 @@
 I'm a **Front-End Software Engineer** from **Chicago, IL**
 
 - 💡   Pronouns: she/her/hers
-- 🌱   I’m currently working on my **Salesforce B2C Ecommerce for Developers Certification**
-- 🙋   Ask me about: Sass, Figma, React.js, Salesforce Commerce Cloud Development
+- 🌱   I’m currently working on **improving my fullstack JS skills**
+- 🙋   Ask me about: Scss, Figma, React.js, Salesforce Commerce Cloud Development
 
 Beyond coding, I love:
 
@@ -25,14 +25,8 @@ Beyond coding, I love:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=25px width=25px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height=25px width=25px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=25px width=25px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height=25px width=25px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height=25px width=25px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height=25px width=25px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=25px width=25px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height=25px width=25px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  height=25px width=25px>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height=25px width=25px>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height=25px width=25px/>
 </p>
 <hr>
 
