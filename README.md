@@ -5,7 +5,7 @@
 I'm a **Front-End Software Engineer** from **Chicago, IL**
 
 - 💡   Pronouns: she/her/hers
-- 🌱   I’m currently working on **improving my fullstack JS skills**
+- 🌱   I’m currently working on my **UI design skills through building out simple projects**
 - 🙋   Ask me about: Scss, Figma, React.js, Salesforce Commerce Cloud Development
 
 Beyond coding, I love:
