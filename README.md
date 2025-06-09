@@ -5,7 +5,7 @@
 I'm a **Front-End Software Engineer** from **Chicago, IL**
 
 - 💡   Pronouns: she/her/hers
-- 🌱   I’m currently learning **Typescript** in my free time!
+- 🌱   I’m currently learning **Next.js** in my free time!
 - 🙋   Ask me about: Scss, Figma, React.js, Salesforce Commerce Cloud Development
 
 Beyond coding, I love:
